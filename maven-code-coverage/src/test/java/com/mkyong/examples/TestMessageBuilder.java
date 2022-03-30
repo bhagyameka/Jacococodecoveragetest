@@ -13,7 +13,7 @@ public class TestMessageBuilder {
         assertEquals("Hello mkyong", obj.getMessage("mkyong"));
 
     }
-
+/*
     @Test
     public void testNameEmpty() {
 
@@ -21,7 +21,7 @@ public class TestMessageBuilder {
         assertEquals("Please provide a name!", obj.getMessage(" "));
 
     }
-/*
+
     @Test
     public void testNameNull() {
 
